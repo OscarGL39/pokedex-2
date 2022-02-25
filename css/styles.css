@@ -68,6 +68,57 @@ h1 {
     text-align: center;
 }
 
-img {
+.giratina img {
     width: 25%;
+}
+
+
+/* zorua.html*/
+
+.zorua {
+    background-color: aquamarine;
+    font-family: 'Inter', sans-serif;
+    font-family: 'VT323', monospace;
+}
+
+.zorua a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    background-color: red;
+    border-radius: 5px;
+}
+
+.zorua img {
+    width: 25%;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+#enlace {
+    text-align: center;
+}
+
+#lucha {
+    background-color: red;
+    padding: 2px;
+    border-radius: 5px;
+}
+
+#acero {
+    background-color: gray;
+    padding: 2px;
+    border-radius: 5px;
+}
+
+
+/* Media query para el diseño responsive */
+
+@media only screen and (max-width: 600px) {
+    .index img {
+        width: 100%;
+    }
 }
