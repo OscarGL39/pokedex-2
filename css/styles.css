@@ -33,7 +33,7 @@ img {
 /* giratina.html */
 
 .giratina {
-    background-color: aquamarine;
+    background-color: rgb(218, 199, 193);
     font-family: 'Inter', sans-serif;
     font-family: 'VT323', monospace;
 }
@@ -76,7 +76,7 @@ h1 {
 /* zorua.html*/
 
 .zorua {
-    background-color: aquamarine;
+    background-color: rgb(228, 50, 50);
     font-family: 'Inter', sans-serif;
     font-family: 'VT323', monospace;
 }
@@ -112,6 +112,89 @@ h1 {
     background-color: gray;
     padding: 2px;
     border-radius: 5px;
+}
+
+
+/* lucario */
+
+.lucario {
+    background-color: rgb(109, 114, 112);
+    font-family: 'Inter', sans-serif;
+    font-family: 'VT323', monospace;
+}
+
+.lucario a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    background-color: red;
+    border-radius: 5px;
+}
+
+.lucario img {
+    width: 25%;
+}
+
+#lucha {
+    background-color: red;
+    padding: 2px;
+}
+
+#acero {
+    background-color: gray;
+    padding: 2px;
+    border-radius: 5px;
+}
+
+#enlace {
+    text-align: center;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+
+/* greninja */
+
+.greninja {
+    background-color: aquamarine;
+    font-family: 'Inter', sans-serif;
+    font-family: 'VT323', monospace;
+}
+
+.greninja a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    background-color: red;
+    border-radius: 5px;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+.greninja img {
+    width: 25%;
+}
+
+#agua {
+    background-color: blue;
+    padding: 2px;
+    border-radius: 5px;
+}
+
+#siniestro {
+    background-color: gray;
+    padding: 2px;
+    border-radius: 5px;
+}
+
+#enlace {
+    text-align: center;
 }
 
 
